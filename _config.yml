@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://buaawht.github.io/
+url: https://buaawht.github.io
 date_format: "ordinal"
 title: buaawht
 subtitle: "peek is peek"
