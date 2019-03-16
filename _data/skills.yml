@@ -1,19 +1,14 @@
-- name: Software Engineer Keywords
+
+- name: Algorithm Ability
+  keywords:
+      - Machine Learning
+      - Deep Learning  
+      - CNN, RNN, GCN
+
+- name: Programming Language
   keywords:
       - Java
       - C++
       - Python
-      - Design Patterns
+      - Golang
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
