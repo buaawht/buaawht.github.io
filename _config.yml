@@ -40,7 +40,7 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: 随笔
 
   -
     href: /links/
@@ -102,11 +102,11 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# 在使用其它评论组件时可点击显示 Disqus
+    owner: buaawht
+    repo: 
+    clientID: 2eb2299c5ffb3f5d50d1
+    clientSecret: e01b1614bd63bb358d81435494a6085e461bbb52
+    # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
 # ---------------- #
