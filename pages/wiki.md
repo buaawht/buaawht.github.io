@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+title: 随笔
+description: 简单写写
+keywords: 随笔
 comments: false
-menu: 维基
+menu: 随笔
 permalink: /wiki/
 ---
 
