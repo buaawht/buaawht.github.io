@@ -8,7 +8,7 @@ menu: 随笔
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 随便写点东西
 
 <ul class="listing">
 {% for wiki in site.wiki %}
