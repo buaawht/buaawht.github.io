@@ -5,13 +5,8 @@ title: 信息论与墒理论
 categories: Machine Learning
 description: 墒
 keywords: 信息墒
-mermaid: true
-sequence: true
-flow: true
-mathjax: true
 ---
 
-# 信息论
 ## 信息量
 
 `事件发生的不确定性`
