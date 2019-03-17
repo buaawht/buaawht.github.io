@@ -4,6 +4,7 @@ title: 信息论与墒理论
 categories: Machine Learning
 description: 墒
 keywords: 信息墒
+mathjax: true
 ---
 
 总结机器学习信息墒的相关知识。
