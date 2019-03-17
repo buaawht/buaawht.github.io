@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 信息论与墒理论
@@ -7,6 +6,7 @@ description: 墒
 keywords: 信息墒
 ---
 
+总结机器学习信息墒的相关知识。
 ## 信息量
 
 `事件发生的不确定性`

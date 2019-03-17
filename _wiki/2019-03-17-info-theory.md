@@ -1,6 +1,5 @@
-
 ---
-layout: post
+layout: wiki
 title: 信息论与墒理论
 categories: Machine Learning
 description: 墒
@@ -11,7 +10,6 @@ flow: true
 mathjax: true
 ---
 
-# 信息论
 ## 信息量
 
 `事件发生的不确定性`
