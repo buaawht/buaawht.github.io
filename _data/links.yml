@@ -1,6 +1,30 @@
 
-- name: GNNPapers
+- name: ----------资料及论文-----------
+  url: 
+
+- name: GNNPapers 图神经网络论文集
   url: https://github.com/thunlp/GNNPapers
 
-- name: NRLPapers
+- name: NRLPapers 网络表示学习论文集
   url: https://github.com/thunlp/NRLPapers
+
+- name: Ad-papers 王喆计算广告资料合集
+  url: https://github.com/wzhe06/Ad-papers
+
+- name: Reco-papers 王喆推荐系统论文合集
+  url: https://github.com/wzhe06/Reco-papers
+
+- name: rtb-papers 广告实时竞价论文集
+  url: https://github.com/wnzhang/rtb-papers
+
+
+
+
+- name: ----------开源框架-------------
+  url:
+
+- name: DeepCTR 点击率预测算法库
+  url: https://github.com/shenweichen/DeepCTR
+
+
+
