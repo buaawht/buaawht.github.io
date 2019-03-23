@@ -103,9 +103,9 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: buaawht
-    repo: 
-    clientID: 2eb2299c5ffb3f5d50d1
-    clientSecret: e01b1614bd63bb358d81435494a6085e461bbb52
+    repo: blog-comments
+    clientID: 4ec1eec6da4644dbea73
+    clientSecret: aa8e66748c17aeaae229a381ffe18a015d9729fa
     # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
