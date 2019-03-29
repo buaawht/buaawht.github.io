@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: peak is peak
-keywords: Haitao Wang, 王海涛
+keywords: Jeff Van
 comments: true
 menu: 关于
 permalink: /about/
