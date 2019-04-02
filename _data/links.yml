@@ -32,16 +32,16 @@
 - name: ----------常用课程-------------
   url:
 
-- name: CS231n: Convolutional Neural Networks for Visual Recognition
+- name: CS231n, Convolutional Neural Networks for Visual Recognition
   url: http://cs231n.stanford.edu/
 
-- name: CS229: Machine Learning
+- name: CS229, Machine Learning
   url:  http://cs229.stanford.edu/
 
-- name: CS224n: Natural Language Processing with Deep Learning
+- name: CS224n, Natural Language Processing with Deep Learning
   url: http://web.stanford.edu/class/cs224n/
 
-- name: CS230: Deep Learning
+- name: CS230, Deep Learning
   url: http://cs230.stanford.edu/
 
 
